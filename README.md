@@ -7,13 +7,6 @@ Summaries of selected projects completed in Udacity so far.
 - [NYSE](#nyse)
 - [Tableau](#tableau)
 - [Coming Soon](#coming-soon)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## NYSE 
 
