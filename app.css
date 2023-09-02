@@ -1,55 +1,20 @@
-html {
-    box-sizing: border-box;
-    height: 100%;
-}
+/* This is a CSS comment */
 
-*,
-*::before,
-*::after {
-    box-sizing: inherit;
-}
-
+/* Style the body element */
 body {
-    display: flex;
-    margin: 0;
-    height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
 }
 
-.container {
-    margin: auto;
-    padding: 1em;
-    width: 80%;
+/* Style a heading element */
+h1 {
+    color: #007bff;
 }
 
-.destination-container {
-    display: flex;
-    flex-flow: wrap;
-    justify-content: center;
+/* Style paragraphs */
+p {
+    font-size: 16px;
 }
 
-.destination {
-    background: #03a9f4;
-    box-shadow: 0 1px 9px 0 rgba(0, 0, 0, 0.4);
-    color: white;
-    margin: 0.5em;
-    min-height: 200px;
-    flex: 0 1 200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
-h2 {
-    margin: 0;
-    transform: rotate(-45deg);
-    text-shadow: 0 0 5px #01579b;
-}
-
-#florida {
-    background-color: #03a9f4;
-}
-
-#paris {
-    background-color: #d32f2f;
-}
+/* Add more CSS rules as needed */
