@@ -18,4 +18,4 @@ Described as, "In this project, you'll create visualizations to reveal insights 
 
 ## Coming Soon
 
-Things that are still in progres or need to be approved before uploading. 
+Things that are still in progress or need to be approved before uploading. 
